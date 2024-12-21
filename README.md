@@ -13,6 +13,3 @@ Instagram Reel Download Bot is a Telegram bot built using Java that allows users
 
 ## Live Demo
 [TelegramBot](https://t.me/Insta_reel091_bot "Reel Download Bot")
-
-
-[TelegramBot](https://t.me/JobMessageCoverBot "Reel Download Bot")
